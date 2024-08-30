@@ -1,0 +1,4 @@
+print("hola mundo")
+print("hola," "mundo")
+print("esto es una prueba de que 2+2 es", 4)
+print("esto es una prueba de que 2+2 es", 2+2)
