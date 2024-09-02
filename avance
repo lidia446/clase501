@@ -1,0 +1,4 @@
+#printTu amigo necesita ayuda para calcular el salario anual de un empleado. La compañía XYZ paga $25 por hora y el empleado trabaja 40 horas por semana. Calcula el salario anual (52 semanas) del empleado e imprime el resultado en un formato claro.
+print("El resultado total de (25*40)*52:", 25*40*52)
+#print La tienda de tecnología ha vendido 120 laptops en el último mes, cada una a un precio de $950. Sin embargo, el próximo mes, el gerente espera un aumento del 15% en las ventas. Ayuda al gerente a calcular cuántas laptops venderán el próximo mes e imprime el resultado con un mensaje explicativo
+print("El resultado total de (120*950)+17100:", 120*950+ 17100 )
